@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
-import autocomplete from 'jquery-ui/ui/widgets/autocomplete';
 import './App.css';
 
 class App extends Component {
